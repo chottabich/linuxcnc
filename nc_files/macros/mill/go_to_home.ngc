@@ -1,6 +1,6 @@
 ; MACROCOMMAND=
 ; MACRODEFAULTS=
-; MACROIMAGE=go_to_home.svg,1,1
+; MACROIMAGE=go_to_home.png
 
 O<go_to_home> sub
 

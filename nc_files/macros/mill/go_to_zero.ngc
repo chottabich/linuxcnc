@@ -4,10 +4,11 @@
 ; will jog the machine to zero
 
 o<go_to_zero> sub
-
+G53 G0 Z-5
  o<100> if [#5422 LT 0]
    G0 Z0
    G0 X0 Y0
+   G0 Z0
  o<100> else if [#5422 GE 0]
    G0 X0 Y0
    G0 Z0

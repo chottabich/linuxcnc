@@ -803,7 +803,7 @@ class HandlerClass:
         self.w.stackedWidget_2.setCurrentIndex(self.tab_index_code[index])                
         if index == TAB_MAIN:
             self.w.stackedWidget_dro.setCurrentIndex(0)
-            self.w.stackedWidget_2.setCurrentIndex(0)
+            self.w.stackedWidget_2.setCurrentIndex(3)
         if index == TAB_UTILITIES:
             self.w.tabWidget_utilities.setCurrentIndex(2)
             self.w.stackedWidget_2.setCurrentIndex(7)             

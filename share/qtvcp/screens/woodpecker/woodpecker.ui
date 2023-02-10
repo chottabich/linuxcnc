@@ -12604,7 +12604,7 @@ STOP</string>
                         </size>
                        </property>
                        <property name="frameShape">
-                        <enum>QFrame::StyledPanel</enum>
+                        <enum>QFrame::Box</enum>
                        </property>
                        <property name="frameShadow">
                         <enum>QFrame::Raised</enum>
@@ -20743,7 +20743,7 @@ color: rgb(51, 255, 0);</string>
  </slots>
  <buttongroups>
   <buttongroup name="axis_buttonGroup"/>
-  <buttongroup name="mode_buttonGroup"/>
   <buttongroup name="page_buttonGroup"/>
+  <buttongroup name="mode_buttonGroup"/>
  </buttongroups>
 </ui>

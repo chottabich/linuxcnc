@@ -763,11 +763,7 @@ WHEEL</string>
                   </size>
                  </property>
                  <property name="text">
-                  <string/>
-                 </property>
-                 <property name="icon">
-                  <iconset>
-                   <normaloff>images/exit_application.png</normaloff>images/exit_application.png</iconset>
+                  <string>EXIT</string>
                  </property>
                  <property name="iconSize">
                   <size>
@@ -1577,11 +1573,7 @@ color: rgb(51, 255, 0);</string>
                   <string notr="true">font: 75 15pt &quot;Bebas Kai&quot;;</string>
                  </property>
                  <property name="text">
-                  <string/>
-                 </property>
-                 <property name="icon">
-                  <iconset>
-                   <normaloff>images/configure-2.png</normaloff>images/configure-2.png</iconset>
+                  <string>Settings</string>
                  </property>
                  <property name="iconSize">
                   <size>
@@ -4987,10 +4979,6 @@ View</string>
                                    <property name="text">
                                     <string>D</string>
                                    </property>
-                                   <property name="icon">
-                                    <iconset>
-                                     <normaloff>images/dimensions.png</normaloff>images/dimensions.png</iconset>
-                                   </property>
                                    <property name="iconSize">
                                     <size>
                                      <width>24</width>
@@ -5200,10 +5188,6 @@ View</string>
                                    </property>
                                    <property name="text">
                                     <string>C</string>
-                                   </property>
-                                   <property name="icon">
-                                    <iconset>
-                                     <normaloff>images/clear.png</normaloff>images/clear.png</iconset>
                                    </property>
                                    <property name="iconSize">
                                     <size>
@@ -20743,7 +20727,7 @@ color: rgb(51, 255, 0);</string>
  </slots>
  <buttongroups>
   <buttongroup name="axis_buttonGroup"/>
-  <buttongroup name="page_buttonGroup"/>
   <buttongroup name="mode_buttonGroup"/>
+  <buttongroup name="page_buttonGroup"/>
  </buttongroups>
 </ui>

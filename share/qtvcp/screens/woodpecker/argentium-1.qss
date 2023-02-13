@@ -55,6 +55,11 @@ ActionButton#action_estop:checked {
     color: #FFFF00;
 }
 
+#action_mist{
+qproperty-true_state_string: "Air\\nOn";
+qproperty-false_state_string: "Air\\nOff";
+}
+
 AxisToolButton:enabled {
     color: white;
 }

@@ -65,6 +65,11 @@ ActionButton#action_estop:checked {
     color: #FFFF00;
 }
 
+#action_mist{
+qproperty-true_state_string: "Air\\nOn";
+qproperty-false_state_string: "Air\\nOff";
+}
+
 QLabel {
     font: 10pt "Lato Heavy";
     color: black;
@@ -139,9 +144,17 @@ QComboBox::item:selected {
     color: #FFFF00;
 }
 
-QGroupBox:enabled {
-    font: 75 15pt "DejaVu Serif";
-    color: rgb(245, 121, 0);
+QGroupBox {
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-top: 16px;
+    font: 10pt "Lato Heavy";
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    padding: 0 3px;
+    color: black;
 }
 
 /****** SPIN BOX ************/
@@ -243,7 +256,7 @@ QTabBar::tab {
     margin-right: 2px;
     border: 1px solid black;
     border-radius: 2px;
-    min-width: 80px;
+    min-width: 117px;
     min-height: 35px;
     padding: 2px;
     font: 14pt "Bebas Kai";

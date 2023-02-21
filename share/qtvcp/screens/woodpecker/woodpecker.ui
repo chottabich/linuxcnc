@@ -2278,7 +2278,7 @@ SIM</string>
                             <string/>
                            </property>
                            <property name="pixmap">
-                            <pixmap resource="woodpecker.qrc">:/images/images/tool_probe.png</pixmap>
+                            <pixmap resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">:/images/images/tool_probe.png</pixmap>
                            </property>
                            <property name="alignment">
                             <set>Qt::AlignCenter</set>
@@ -3244,7 +3244,7 @@ SENSOR</string>
                               <string/>
                              </property>
                              <property name="pixmap">
-                              <pixmap resource="woodpecker.qrc">:/images/images/atc_spindle_tool.png</pixmap>
+                              <pixmap resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">:/images/images/atc_spindle_tool.png</pixmap>
                              </property>
                              <property name="alignment">
                               <set>Qt::AlignBottom|Qt::AlignHCenter</set>
@@ -5382,7 +5382,7 @@ FILE</string>
                                       <string/>
                                      </property>
                                      <property name="icon">
-                                      <iconset resource="woodpecker.qrc">
+                                      <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
                                        <normaloff>:/buttons/images/Right_arrow.png</normaloff>:/buttons/images/Right_arrow.png</iconset>
                                      </property>
                                      <property name="iconSize">
@@ -5420,7 +5420,7 @@ FILE</string>
                                       <string/>
                                      </property>
                                      <property name="icon">
-                                      <iconset resource="woodpecker.qrc">
+                                      <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
                                        <normaloff>:/buttons/images/Left_arrow.png</normaloff>:/buttons/images/Left_arrow.png</iconset>
                                      </property>
                                      <property name="iconSize">
@@ -9428,7 +9428,7 @@ KEYBOARD</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset resource="woodpecker.qrc">
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
                                         <normaloff>:/buttons/images/x_minus_jog_button.png</normaloff>:/buttons/images/x_minus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
@@ -9664,7 +9664,7 @@ KEYBOARD</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset resource="woodpecker.qrc">
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
                                         <normaloff>:/buttons/images/x_plus_jog_button.png</normaloff>:/buttons/images/x_plus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
@@ -19588,8 +19588,7 @@ color: rgb(51, 255, 0);</string>
   </customwidget>
  </customwidgets>
  <resources>
-  <include location="woodpecker.qrc"/>
-  <include location="woodpecker.qrc"/>
+  <include location="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc"/>
  </resources>
  <connections>
   <connection>
@@ -20726,8 +20725,8 @@ color: rgb(51, 255, 0);</string>
   <slot>chk_eoffsets_checked()</slot>
  </slots>
  <buttongroups>
-  <buttongroup name="axis_buttonGroup"/>
   <buttongroup name="mode_buttonGroup"/>
+  <buttongroup name="axis_buttonGroup"/>
   <buttongroup name="page_buttonGroup"/>
  </buttongroups>
 </ui>

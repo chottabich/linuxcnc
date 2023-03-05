@@ -9502,8 +9502,8 @@ KEYBOARD</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/a_plus_jog_button.png</normaloff>images/a_plus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/a_plus_jog_button.png</normaloff>:/buttons/images/a_plus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9540,8 +9540,8 @@ KEYBOARD</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/z_minus_jog_button.png</normaloff>images/z_minus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/z_minus_jog_button.png</normaloff>:/buttons/images/z_minus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9584,8 +9584,8 @@ KEYBOARD</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/y_minus_jog_button.png</normaloff>images/y_minus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/y_minus_jog_button.png</normaloff>:/buttons/images/y_minus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9769,8 +9769,8 @@ KEYBOARD</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/y_plus_jog_button.png</normaloff>images/y_plus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/y_plus_jog_button.png</normaloff>:/buttons/images/y_plus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9847,8 +9847,8 @@ color: #FFFF00;</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/b_plus_jog_button.png</normaloff>images/b_plus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/b_plus_jog_button.png</normaloff>:/buttons/images/b_plus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9895,8 +9895,8 @@ color: #FFFF00;</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/b_minus_jog_button.png</normaloff>images/b_minus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/b_minus_jog_button.png</normaloff>:/buttons/images/b_minus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9945,8 +9945,8 @@ color: #FFFF00;</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/z_plus_jog_button.png</normaloff>images/z_plus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/z_plus_jog_button.png</normaloff>:/buttons/images/z_plus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
@@ -9983,8 +9983,8 @@ color: #FFFF00;</string>
                                        <string/>
                                       </property>
                                       <property name="icon">
-                                       <iconset>
-                                        <normaloff>images/a_minus_jog_button.png</normaloff>images/a_minus_jog_button.png</iconset>
+                                       <iconset resource="../../../../../usr/share/qtvcp/screens/woodpecker/woodpecker.qrc">
+                                        <normaloff>:/buttons/images/a_minus_jog_button.png</normaloff>:/buttons/images/a_minus_jog_button.png</iconset>
                                       </property>
                                       <property name="iconSize">
                                        <size>
